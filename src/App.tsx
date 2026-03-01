@@ -131,7 +131,7 @@ export function App() {
           {/* Safari badge */}
           <div className="inline-flex items-center gap-2 bg-amber-600 text-white px-6 py-2 rounded-full text-sm font-semibold mb-8 shadow-lg">
             <span>🎪</span>
-            <span>KERMESS 2026</span>
+            <span>KERMESS 2025</span>
             <span>🎪</span>
           </div>
           
