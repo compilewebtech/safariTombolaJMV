@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "jmvtombola"
+  },
+  "targets": {
+    "jmvtombola": {
+      "hosting": {
+        "main": ["jmvtombola2026"]
+      }
+    }
+  }
+}
