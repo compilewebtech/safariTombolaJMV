@@ -32,8 +32,8 @@ export interface SiteText {
 
 export const DEFAULT_SITE_TEXT: SiteText = {
   badge: "KERMESS 2026",
-  heroTitle: "Welcome to the Safari Tombola!",
-  heroTagline: "🌴 Wild Prizes Await You! 🌴",
+  heroTitle: "Kick Off the Summer",
+  heroTagline: "⚽ One Goal at a Time ☀️",
   heroDescription:
     "Discover amazing prizes donated by our generous local businesses and sponsors. Every ticket is a chance to win big!",
   ctaPrize: "Our Grand Prize 🎁",
@@ -41,9 +41,9 @@ export const DEFAULT_SITE_TEXT: SiteText = {
   grandPrizeHeading: "Grand Prize",
   sponsorsHeading: "Sponsors",
   sponsorsSubtitle:
-    "Local businesses making our safari kermess even more special with their generous contributions!",
+    "Local businesses making our summer kermess even more special with their generous contributions!",
   dividerText: "Thank you to all our wonderful sponsors!",
-  footerTitle: "Safari Kermess 2026",
+  footerTitle: "Summer Kermess 2026",
   footerThanks:
     "Thank you to all our sponsors and partners for making this event possible!",
   footerContact: "Want to become a sponsor? Contact us at",
